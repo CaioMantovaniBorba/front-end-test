@@ -2,7 +2,7 @@ import { Switch, Route } from 'react-router-dom';
 
 import Main from '../pages/Main';
 
-export function Routes() {
+function Routes() {
     return (
         <Switch>
             <Route path="/" exact component={Main} />

@@ -49,8 +49,8 @@ function Post() {
 
             <Row>
                 <p>
-                    Esta publicação está configurada no modo privado "somente
-                    eu".
+                    Esta publicação está configurada no modo privado &quot;
+                    somente eu &quot;.
                 </p>
             </Row>
 
@@ -87,12 +87,12 @@ function Post() {
                     )}
                 </button>
 
-                <button>
+                <button type="button">
                     <CommentIcon />
                     <span>Comentar</span>
                 </button>
 
-                <button>
+                <button type="button">
                     <ShareIcon />
                     <span>Compartilhar</span>
                 </button>

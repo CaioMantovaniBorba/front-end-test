@@ -18,10 +18,10 @@ function MiddleColumn() {
                     </div>
 
                     <div>
-                        <button>
+                        <button type="button">
                             <CameraIcon />
                         </button>
-                        <button>
+                        <button type="button">
                             <VideoCameraIcon />
                         </button>
                     </div>

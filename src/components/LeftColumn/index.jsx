@@ -6,7 +6,7 @@ function LeftColumn() {
     return (
         <Container className="left-column">
             <ProfileCard>
-                <div className="profile-cover"></div>
+                <div className="profile-cover" />
 
                 <img
                     src="https://picsum.photos/id/1005/120/120"
